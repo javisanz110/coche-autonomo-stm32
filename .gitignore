@@ -1,0 +1,42 @@
+# STM32CubeIDE
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+*.exe
+*.out
+
+# Build directories
+build/
+dist/
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDEs
+.cproject
+.project
+.settings/
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+*.code-workspace
+
+# Dependencies
+Debug/
+Release/
+obj/
+
+# STM32CubeIDE specific
+Drivers/
+Inc/main.h
+Startup/
+*.ioc
+
+# Temporary files
+*.tmp
+*.bak

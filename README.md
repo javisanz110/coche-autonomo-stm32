@@ -64,7 +64,7 @@ cd coche-autonomo-stm32
 
 ## 👨‍💻 Autor
 
-**Javier Sánchez** (@javisanz110)
+**Javier Sanz** (@javisanz110)
 
 ---
 
